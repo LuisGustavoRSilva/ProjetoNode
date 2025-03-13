@@ -1,0 +1,21 @@
+{
+  "name": "projetomongodb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Luis Gustavo",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "helmet": "^8.0.0",
+    "mongodb": "^6.14.2",
+    "mongoose": "^8.12.1",
+    "monguse": "^1.0.0",
+    "morgan": "^1.10.0"
+  }
+}
